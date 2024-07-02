@@ -1,19 +1,30 @@
 
 ![Web Developer](https://i.ibb.co/hK6BQmb/github-header-image-2.png)
 
-                                                  ### Hi there 👋, I'm Tanvir Ahmmed
-                                                          #### Web Developer
+<h1 align="center">Hi, I'm Tanvir Ahmmed</h1>
 
 
+
+<h3>👤 About Me</h3>
+<P>
 I'm Tanvir Ahmmed, a dedicated frontend developer with a passion for creating exceptional digital experiences.
-
+  
 My expertise lies in crafting visually appealing and user-friendly websites using HTML, CSS, and JavaScript.
-
- I believe in the power of technology to transform ideas into impactful solutions that enhance user interactions and streamline processes.
-
+I believe in the power of technology to transform ideas into impactful solutions that enhance user interactions and streamline processes.
 By staying updated on the latest trends and employing best practices, I ensure that every project I undertake delivers value, drives engagement, and exceeds expectations.
 
 💬 Let's connect! Feel free to reach out via email at [ahmmedtanvir9090@gmail.com] or give me a call at [Tanvir Ahmmed]. I look forward to discussing how we can collaborate to achieve your digital goals
+</P>
+
+<h3>📈 Current Stats</h3>
+<hr>
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tanvirgit07" alt="GitHub streak stats">
+</div>
+
+
 
 Skills: REACT / JS / HTML / CSS/c++
 
@@ -35,6 +46,6 @@ Skills: REACT / JS / HTML / CSS/c++
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tanvirgit07/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Tanvirgit07)  
+
 
 
