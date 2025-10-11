@@ -1,27 +1,43 @@
 
 ![Web Developer](https://i.ibb.co/hK6BQmb/github-header-image-2.png)
 
-<h1 align="center">Hi, I'm Tanvir Ahmmed</h1>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanvir+Ahmmed;Frontend+Developer;Building+Beautiful+Digital+Experiences;Passionate+About+Modern+Web+Technologies" 
+    alt="Typing Animation"
+  />
+</h1>
 
 
 
-<h3>👤 About Me</h3>
-<table width="100%" style="table-layout: fixed;">
-  <tr>
-    <td width="60%" valign="top" style="padding-right: 20px; height: 300px;">
-      <p style="height: 100%; margin: 0; line-height: 1.6; display: flex; align-items: center;">
-        I'm Tanvir Ahmmed, a dedicated frontend developer with a passion for creating exceptional digital experiences.<br><br>
-        My expertise lies in crafting visually appealing and user-friendly websites using HTML, CSS, and JavaScript.<br>
-        I believe in the power of technology to transform ideas into impactful solutions that enhance user interactions and streamline processes.<br>
-        By staying updated on the latest trends and employing best practices, I ensure that every project I undertake delivers value, drives engagement, and exceeds expectations.<br><br>
-        💬 Let's connect! Feel free to reach out via email at <a href="mailto:ahmmedtanvir9090@gmail.com">ahmmedtanvir9090@gmail.com</a> or give me a call at [Tanvir Ahmmed]. I look forward to discussing how we can collaborate to achieve your digital goals.
-      </p>
-    </td>
-    <td width="40%" valign="middle" align="center" style="height: 300px;">
-      <img src="https://i.ibb.co/HL8kdVFK/edec57b70e496d6310c0ba533909acb2.gif" alt="Coding GIF" style="height: 100%; width: auto; border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<h3 align="">👤 About Me</h3>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=800&color=00BFA6&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Tanvir+Ahmmed;Frontend+Developer;Building+Beautiful+Web+Experiences;Passionate+About+Modern+Web+Tech" alt="Typing Animation" />
+</p> -->
+
+<p align="justify" style="line-height: 1.7; font-size: 16px; margin: 0 auto; max-width: 850px;">
+Hi, I'm <b>Tanvir Ahmmed</b> — a passionate <b>Frontend Developer</b> dedicated to crafting <b>interactive</b> and <b>user-friendly</b> web experiences 🌐.<br><br>
+
+I specialize in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b> 💻 — combining creativity with clean code to deliver high-quality projects.<br><br>
+
+I believe technology has the power to <b>transform ideas</b> into impactful solutions that enhance <b>user interactions</b> and streamline processes 🚀.<br><br>
+
+💬 Let's connect! Reach me at:  
+📧 <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a>  
+or find me on <b>LinkedIn / GitHub</b> for collaborations and exciting projects.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-00BFA6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+
 
 
 
