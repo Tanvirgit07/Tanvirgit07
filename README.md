@@ -25,7 +25,7 @@
       </p>
     </td>
     <td width="40%" valign="middle" align="center" style="height: 300px;">
-      <img src="https://i.ibb.co/HL8kdVFK/edec57b70e496d6310c0ba533909acb2.gif" alt="Coding GIF" style="height: 100%; width: auto; border-radius: 10px;" />
+      <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Coding GIF" style="height: 100%; width: auto; border-radius: 10px;" />
     </td>
   </tr>
 </table> -->
