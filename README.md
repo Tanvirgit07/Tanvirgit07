@@ -12,32 +12,34 @@
 
 
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanvir+Ahmmed;Frontend+Developer;Building+beautiful+digital+experiences" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">👤 About Me</h3>
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <p align="justify">
-        Hi, I'm <b>Tanvir Ahmmed</b> — a passionate <b>Frontend Developer</b> dedicated to crafting exceptional digital experiences.<br><br>
+        I'm <b>Tanvir Ahmmed</b> — a passionate <b>Frontend Developer</b> who loves crafting clean, modern, and user-friendly digital experiences.<br><br>
 
-        I specialize in building visually appealing and user-friendly websites using 
-        <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and modern frameworks like <b>React</b> & <b>Next.js</b>.<br><br>
+        I specialize in technologies like <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>Next.js</b> — blending creativity with functionality to bring ideas to life.<br><br>
 
-        I believe technology has the power to transform ideas into meaningful, user-centric solutions that drive engagement and deliver measurable results.<br><br>
+        I believe technology can empower people and businesses, transforming ideas into impactful, real-world solutions. Every line of code I write aims to make the web faster, smarter, and more delightful ✨<br><br>
 
-        By staying updated with the latest trends and best practices, I ensure every project I undertake not only meets expectations — but exceeds them 🚀<br><br>
-
-        💬 Let’s connect!  
-        📧 <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a>  
-        <br>📞 <b>Tanvir Ahmmed</b>
+        💬 Feel free to reach out via  
+        📧 <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a><br>
+        📞 <b>Tanvir Ahmmed</b>
       </p>
     </td>
 
-   <td width="40%" align="center">
-      <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Coding GIF" width="85%" style="border-radius:15px;box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Coding GIF" width="85%" style="border-radius:15px;box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
     </td>
   </tr>
 </table>
+
 
 
 <!-- <h3 align="center">👤 About Me</h3>
