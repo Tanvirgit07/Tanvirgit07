@@ -12,7 +12,7 @@
 
 
 
-<!-- <h3>👤 About Me</h3>
+<h3>👤 About Me</h3>
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="60%" valign="top" style="padding-right: 20px; height: 300px;">
@@ -28,10 +28,10 @@
       <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Coding GIF" style="height: 100%; width: auto; border-radius: 10px;" />
     </td>
   </tr>
-</table> -->
+</table>
 
 
-<h3 align="center">👤 About Me</h3>
+<!-- <h3 align="center">👤 About Me</h3>
 
 <table align="center" width="100%">
   <tr>
@@ -50,7 +50,7 @@
       <img src="https://i.ibb.co/HL8kdVFK/edec57b70e496d6310c0ba533909acb2.gif" alt="Coding GIF" width="90%" style="border-radius:15px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
