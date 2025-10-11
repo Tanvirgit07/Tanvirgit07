@@ -2,7 +2,15 @@
 ![Web Developer](https://i.ibb.co/hK6BQmb/github-header-image-2.png)
 
 <!-- <h1 align="center">Hi, I'm Tanvir Ahmmed</h1>? -->
-<h1 align="center">Hi, I'm Tanvir Ahmmed</h1>
+<p align="justify">
+        I'm <b>Tanvir Ahmmed</b>, a dedicated frontend developer with a passion for creating exceptional digital experiences.<br><br>
+        My expertise lies in crafting visually appealing and user-friendly websites using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.<br><br>
+        I believe in the power of technology to transform ideas into impactful solutions that enhance user interactions and streamline processes.<br><br>
+        By staying updated on the latest trends and employing best practices, I ensure that every project I undertake delivers value, drives engagement, and exceeds expectations.<br><br>
+        💬 Let's connect! Feel free to reach out via email at  
+        <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a>  
+        <br>or call me at <b>Tanvir Ahmmed</b>.  
+      </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Developer-00bfa6?style=for-the-badge" />
