@@ -1,7 +1,14 @@
 
 ![Web Developer](https://i.ibb.co/hK6BQmb/github-header-image-2.png)
 
+<!-- <h1 align="center">Hi, I'm Tanvir Ahmmed</h1>? -->
 <h1 align="center">Hi, I'm Tanvir Ahmmed</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Developer-00bfa6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-Lover-blue?style=for-the-badge" />
+</p>
 
 
 
