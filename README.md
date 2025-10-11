@@ -31,80 +31,26 @@
 </table> -->
 
 
-<section class="about-section">
-  <h3>👤 About Me</h3>
-  <div class="about-container">
-    <div class="about-text">
-      <p>
-        I'm <strong>Tanvir Ahmmed</strong>, a dedicated frontend developer with a passion for creating exceptional digital experiences.<br><br>
-        My expertise lies in crafting visually appealing and user-friendly websites using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.<br><br>
+<h3 align="center">👤 About Me</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p align="justify">
+        I'm <b>Tanvir Ahmmed</b>, a dedicated frontend developer with a passion for creating exceptional digital experiences.<br><br>
+        My expertise lies in crafting visually appealing and user-friendly websites using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.<br><br>
         I believe in the power of technology to transform ideas into impactful solutions that enhance user interactions and streamline processes.<br><br>
         By staying updated on the latest trends and employing best practices, I ensure that every project I undertake delivers value, drives engagement, and exceeds expectations.<br><br>
-        💬 Let's connect! Feel free to reach out via email at 
-        <a href="mailto:ahmmedtanvir9090@gmail.com">ahmmedtanvir9090@gmail.com</a>.
+        💬 Let's connect! Feel free to reach out via email at  
+        <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a>  
+        <br>or call me at <b>Tanvir Ahmmed</b>.  
       </p>
-    </div>
-    <div class="about-image">
-      <img src="https://i.ibb.co/HL8kdVFK/edec57b70e496d6310c0ba533909acb2.gif" alt="Coding GIF" />
-    </div>
-  </div>
-</section>
-
-<style>
-.about-section {
-  max-width: 1000px;
-  margin: 50px auto;
-  padding: 30px;
-  border-radius: 20px;
-  background: #ffffff10;
-  backdrop-filter: blur(12px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-  animation: fadeIn 1.2s ease-in;
-}
-
-.about-section h3 {
-  text-align: center;
-  font-size: 1.8rem;
-  color: #00bfa6;
-  margin-bottom: 20px;
-}
-
-.about-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 30px;
-  flex-wrap: wrap;
-}
-
-.about-text {
-  flex: 1;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #333;
-}
-
-.about-text a {
-  color: #00bfa6;
-  text-decoration: none;
-}
-
-.about-image img {
-  width: 300px;
-  border-radius: 15px;
-  transition: transform 0.3s ease;
-}
-
-.about-image img:hover {
-  transform: scale(1.05);
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.ibb.co/HL8kdVFK/edec57b70e496d6310c0ba533909acb2.gif" alt="Coding GIF" width="90%" style="border-radius:15px;" />
+    </td>
+  </tr>
+</table>
 
 
 
