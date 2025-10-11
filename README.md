@@ -12,20 +12,29 @@
 
 
 
-<h3>👤 About Me</h3>
-<table width="100%" style="table-layout: fixed;">
+<h3 align="center">👤 About Me</h3>
+
+<table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top" style="padding-right: 20px; height: 300px;">
-      <p style="height: 100%; margin: 0; line-height: 1.6; display: flex; align-items: center;">
-        I'm Tanvir Ahmmed, a dedicated frontend developer with a passion for creating exceptional digital experiences.<br><br>
-        My expertise lies in crafting visually appealing and user-friendly websites using HTML, CSS, and JavaScript.<br>
-        I believe in the power of technology to transform ideas into impactful solutions that enhance user interactions and streamline processes.<br>
-        By staying updated on the latest trends and employing best practices, I ensure that every project I undertake delivers value, drives engagement, and exceeds expectations.<br><br>
-        💬 Let's connect! Feel free to reach out via email at <a href="mailto:ahmmedtanvir9090@gmail.com">ahmmedtanvir9090@gmail.com</a> or give me a call at [Tanvir Ahmmed]. I look forward to discussing how we can collaborate to achieve your digital goals.
+    <td width="60%" valign="top">
+      <p align="justify">
+        Hi, I'm <b>Tanvir Ahmmed</b> — a passionate <b>Frontend Developer</b> dedicated to crafting exceptional digital experiences.<br><br>
+
+        I specialize in building visually appealing and user-friendly websites using 
+        <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and modern frameworks like <b>React</b> & <b>Next.js</b>.<br><br>
+
+        I believe technology has the power to transform ideas into meaningful, user-centric solutions that drive engagement and deliver measurable results.<br><br>
+
+        By staying updated with the latest trends and best practices, I ensure every project I undertake not only meets expectations — but exceeds them 🚀<br><br>
+
+        💬 Let’s connect!  
+        📧 <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a>  
+        <br>📞 <b>Tanvir Ahmmed</b>
       </p>
     </td>
-    <td width="40%" valign="middle" align="center" style="height: 300px;">
-      <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Coding GIF" style="height: 100%; width: auto; border-radius: 10px;" />
+
+   <td width="40%" align="center">
+      <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Coding GIF" width="85%" style="border-radius:15px;box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
