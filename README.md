@@ -3,10 +3,11 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanvir+Ahmmed;Frontend+Developer;Building+Beautiful+Digital+Experiences;Passionate+About+Modern+Web+Technologies" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2600&pause=1000&color=00BFA6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tanvir+Ahmmed;Full+Stack+Web+Developer;Building+Scalable+and+Secure+Applications;Turning+Ideas+Into+Real+World+Solutions" 
     alt="Typing Animation"
   />
 </h1>
+
 
 
 <h3 align="">👤 About Me</h3>
