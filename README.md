@@ -9,36 +9,18 @@
 </h1>
 
 
-
 <h3 align="">👤 About Me</h3>
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=800&color=00BFA6&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Tanvir+Ahmmed;Frontend+Developer;Building+Beautiful+Web+Experiences;Passionate+About+Modern+Web+Tech" alt="Typing Animation" />
-</p> -->
-
 <p align="justify" style="line-height: 1.7; font-size: 16px; margin: 0 auto; max-width: 850px;">
-Hi, I'm <b>Tanvir Ahmmed</b> — a passionate <b>Frontend Developer</b> dedicated to crafting <b>interactive</b> and <b>user-friendly</b> web experiences 🌐.<br><br>
+Hi, I'm <b>Tanvir Ahmmed</b> — a passionate <b>Full Stack Developer</b> with hands-on experience in building <b>scalable</b>, <b>secure</b>, and <b>user-centric</b> web applications from concept to deployment 🌐.<br>
 
-I specialize in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b> 💻 — combining creativity with clean code to deliver high-quality projects.<br><br>
+On the frontend, I specialize in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b> 💻, where I focus on crafting responsive, intuitive, and visually engaging user interfaces. I emphasize clean code, performance optimization, and accessibility to deliver seamless user experiences across all devices.<br>
 
-I believe technology has the power to <b>transform ideas</b> into impactful solutions that enhance <b>user interactions</b> and streamline processes 🚀.<br><br>
+On the backend, I work with <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b> to develop robust APIs, manage databases efficiently, and implement secure authentication and authorization systems. I have experience integrating real-time features, handling business logic, and ensuring smooth communication between client and server layers.<br>
 
-💬 Let's connect! Reach me at:  
-📧 <a href="mailto:ahmmedtanvir9090@gmail.com"><b>ahmmedtanvir9090@gmail.com</b></a>  
-or find me on <b>LinkedIn / GitHub</b> for collaborations and exciting projects.
+I am passionate about transforming ideas into reliable digital solutions that solve real-world problems. I believe technology has the power to create meaningful impact by enhancing user engagement, improving system efficiency, and delivering long-term value 🚀.<br>
+
+I am continuously learning and exploring modern tools and best practices, always seeking opportunities to grow as a developer, take on challenging projects, and contribute to high-quality, production-ready applications.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-00BFA6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-
-
 
 
 <h3>📈 Current Stats</h3>
@@ -46,8 +28,6 @@ or find me on <b>LinkedIn / GitHub</b> for collaborations and exciting projects.
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Tanvirgit07" alt="GitHub streak stats">
 </div>
-
-
 
 <h3>📝 Technologies that I know</h3>
 <hr>
