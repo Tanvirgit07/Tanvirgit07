@@ -1,5 +1,11 @@
 
-![Web Developer](https://i.ibb.co/hK6BQmb/github-header-image-2.png)
+<div align="center">
+  <img 
+    src="https://i.ibb.co.com/9k6GtBDh/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" 
+    alt="Web Developer" 
+    style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);"
+  />
+</div>
 
 <h1 align="center">
   <img 
