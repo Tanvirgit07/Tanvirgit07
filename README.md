@@ -33,7 +33,7 @@ I am continuously learning and exploring modern tools and best practices, always
 ## 📈 Current Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanvirAhmmed&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirAhmmed&theme=tokyonight&hide_border=true" />
 </p>
 
 
