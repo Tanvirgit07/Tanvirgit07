@@ -32,9 +32,9 @@ I am continuously learning and exploring modern tools and best practices, always
 
 ## 📈 Current Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirAhmmed&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tanvirgit07" alt="GitHub streak stats">
+</div>
 
 
 
