@@ -30,8 +30,12 @@ I am continuously learning and exploring modern tools and best practices, always
 </p>
 
 
-<h3>📈 Current Stats</h3>
-<hr>
+## 📈 Current Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanvirAhmmed&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
   ## 🚀 Skills & Technologies
